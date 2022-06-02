@@ -1,16 +1,43 @@
-### Hi there 👋
+### Olá! Eu sou a Monica Costa 👋
 
-<!--
-**monicamacedocost/monicamacedocost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/monicamacedocost">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monicamacedocost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicamacedocost&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
+  ## Tecnologias que eu uso no meu dia
+  
+  <div style="display: inline_block"><br>
+  <i class="devicon-java-plain colored"></i>
+ <img align="center" alt="monicamacedocost-node"
+         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="center" alt="monicamacedocost-Java" height="30" width="40"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="monicamacedocost-Js" height="30" width="40"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" alt="monicamacedocost-HTML" height="30" width="40"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img align="center" alt="monicamacedocost-python" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img align="center" alt="monicamacedocost-docker" height="30" width="40"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+ <img align="center" alt="monicamacedocost-ruby" height="30" width="40"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+   
+
+</div>
+  
+  ##
+
+  <div> 
+  <a href = "mailto:monicamacedocost@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anderson-luiz-burilli-901884170" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/monicamacedocost/monicamacedocost/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+    
